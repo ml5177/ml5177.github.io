@@ -2,7 +2,7 @@
 "spider": "https://box-1257830615.cos.ap-guangzhou.myqcloud.com/神器.jar;md5;D6538DD20B77727CE01C254568D57D50",
 //"spider": "https://box-1257830615.cos.ap-guangzhou.myqcloud.com/cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"sites": [
+//"sites": [
 {"key": "csp_77"         ,"name":"🎾酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐎厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys"        ,"name":"🐼泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
