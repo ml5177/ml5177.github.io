@@ -1,5 +1,11 @@
 //Base64地址：aHR0cHM6Ly9tbDUxNzcuZ2l0aHViLmlvL0lQVFYudHh0==
 央视,#genre#
+咪咕视频 全高清源：http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+
+CCTV16 全高清源：http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+
+CCTV5 高清源：http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV1,http://219.140.56.34:3333/tsfile/live/0001_1.m3u8
 CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
