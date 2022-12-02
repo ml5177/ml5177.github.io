@@ -671,8 +671,6 @@ https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
 http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="景区", 水长城镜头一
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="港澳台", 大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="儿童频道", 嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字频道", 点掌财经
@@ -743,18 +741,12 @@ http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="数字频道", CGTN
 http://live.cgtn.com/500/prog_index.m3u8?zshijd
-#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="港澳台", CBEEBIES
-https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台", 韩国EBS第一频道
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台", 韩国EBS少儿童频道
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台", 韩国EBS第二频道
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台", 韩国职业广播
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-#EXTINF:-1 tvg-id="6117" tvg-name="海豚综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/海豚综合.png" group-title="港澳台", 海豚综合台
-http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="543" tvg-name="东森亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaNews.png" group-title="港澳台", 东森亚洲新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台", 房山无线(高清)
