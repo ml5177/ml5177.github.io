@@ -4,77 +4,34 @@
       "name": "一号",
       "server": "http://alist.xiaoya.pro"
     },
+   
     {
       "name": "二号",
-      "server": "https://dubi.tk"
-    },
-    {
-      "name": "三号",
-      "server": "https://6vv.app"
-    },
-    {
-      "name": "四号",
       "server": "https://alistcn.repl.co"
     },
+   
     {
-      "name": "五号",
-      "server": "http://518p8g7316.goho.co:5244"
-    },
-    {
-      "name": "六号",
-      "server": "https://hi.shuaipeng.wang"
-    },
-    {
-      "name": "七号",
+      "name": "三号",
       "server": "https://pan.bashroot.top"
     },
     {
-      "name": "八号",
+      "name": "四号",
       "server": "https://alist.52qy.repl.co"
     },
+  
     {
-      "name": "九号",
-      "server": "https://zi0.cc"
-    },
-    {
-      "name": "十号",
+      "name": "五号",
       "server": "https://anime.mqmmw.ga"
     },
+    
     {
-      "name": "十一号",
-      "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "十二号",
+      "name": "六号",
       "server": "https://alist.youte.ml"
     },
     {
-      "name": "十三号",
+      "name": "七号",
       "server": "https://al.chirmyram.com"
-    },
-    {
-      "name": "十四号",
-      "server": "https://8023.haohanba.cn"
-    },
-    {
-      "name": "十五号",
-      "server": "https://quanzi.laoxianghuijia.cn"
-    },
-    {
-      "name": "十六号",
-      "server": "https://pan.jlbx.xyz"
-    },
-    {
-      "name": "十七号",
-      "server": "https://alist.shenzjd.com"
-    },
-    {
-      "name": "十八号",
-      "server": "https://960303.xyz"
-    },
-    {
-      "name": "十九号",
-      "server": "http://124.222.140.243:8080"
     }
+  
   ]
 }
