@@ -1,5 +1,6 @@
 //Base64地址：aHR0cHM6Ly9tbDUxNzcuZ2l0aHViLmlvL0lQVFYudHh0==
 
+央视IPV4,#genre#
 CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1/1300000/mnf.m3u8
 CCTV2,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
